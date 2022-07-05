@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{010171CA-3C27-46F3-7DCA-E7F0FCFACC5A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AudioManager.cs">
+    <Files>
+      <File FileName="../../../Unity Projects/Radical Adventure/Assets/Scripts/MusicController.cs" Line="539" Column="18" />
+      <File FileName="Assets/Scripts/SoundManager.cs" />
+      <File FileName="Assets/Scripts/Ball.cs" />
+      <File FileName="Assets/Scripts/Bricks.cs" />
+      <File FileName="Assets/Scripts/DeadZone.cs" />
+      <File FileName="Assets/Scripts/Paddle.cs" />
+      <File FileName="Assets/Scripts/GM.cs" Line="71" Column="50" />
+      <File FileName="Assets/Scripts/TimedDestroy.cs" />
+      <File FileName="Assets/MusicManager.cs" Line="7" Column="5" />
+      <File FileName="Assets/AudioManager.cs" Line="7" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Wardell_Breakout" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="AudioManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c1b67305-876d-463e-bca1-38631759efb5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

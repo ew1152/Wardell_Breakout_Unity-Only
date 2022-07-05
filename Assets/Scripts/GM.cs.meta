@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 23ede4d2f81444c3697533114a706d94
+timeCreated: 1466633541
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - youWon: {instanceID: 0}
+  - bricksPrefab: {instanceID: 0}
+  - paddle: {instanceID: 0}
+  - deathParticles: {instanceID: 0}
+  - dry: {fileID: 24500003, guid: 73affa66eba9b4d5dafe1840c2a1cedc, type: 2}
+  - wet: {fileID: 24516920, guid: 73affa66eba9b4d5dafe1840c2a1cedc, type: 2}
+  - mixer: {fileID: 24100000, guid: 73affa66eba9b4d5dafe1840c2a1cedc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6eb9c543002f455090221f07ada6445
+timeCreated: 1464907546
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - brickSound: {fileID: 8300000, guid: 9f7dc63a20a6b44b69b97d841a1241ef, type: 3}
+  - wallSound: {fileID: 8300000, guid: 9f7dc63a20a6b44b69b97d841a1241ef, type: 3}
+  - paddleSound: {fileID: 8300000, guid: 9f7dc63a20a6b44b69b97d841a1241ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

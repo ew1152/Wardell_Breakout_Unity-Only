@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A327BA2B-3D41-226B-5FD7-1FC6CEF04356}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DeadZone.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="74" Column="35" />
+      <File FileName="Assets/Scripts/Bricks.cs" Line="11" Column="61" />
+      <File FileName="Assets/Scripts/GM.cs" Line="22" Column="28" />
+      <File FileName="Assets/Scripts/DeadZone.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
